@@ -1,0 +1,12 @@
+{
+  "name": "assignment-four-express-server",
+  "version": "1.0.0",
+  "description": "This assignment is focuses on writing basic server-side code. Using an Express framework structure, to modify the route handler to add a new route.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vc",
+  "license": "ISC"
+}

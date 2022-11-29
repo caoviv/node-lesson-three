@@ -1,16 +1,17 @@
 {
-  "name": "expensetracker",
+  "name": "nodedemo",
   "version": "1.0.0",
   "description": "This is my first Node project",
   "main": "index.js",
   "scripts": {
-    "start": "node calculator.js",
+    "start": "nodemon index.js",
     "test": "jest --coverage"
   },
   "author": "Vivian Cao",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "jest": "^29.3.1"

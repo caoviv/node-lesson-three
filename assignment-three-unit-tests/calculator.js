@@ -12,4 +12,6 @@ const calculator = {
   },
 };
 
+console.log(calculator.sum(10, 10));
+
 module.exports = calculator;
